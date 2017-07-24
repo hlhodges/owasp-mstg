@@ -90,6 +90,13 @@ When using any number higher than ten, use the numeric version (e.g., "12" or â€
 Use American spelling and terminology.
 Change all British spelling and terminology to the American equivalents where applicable. This includes "toward" (US) vs. "towards" (UK), "among" (US) vs. "amongst" (UK), "color" (US) vs "colour" (UK), "flashlight" (US) vs "torch" (UK), etc.
 
+#### Spelling Conventions
+- bytecode
+- run time (time when program runs), runtime (an environment), run-time (adjective)
+- life cycle
+- workflow
+- open source
+
 ### Plurals
 
 Adhere to standard grammar and punctuation rules when it comes to pluralization of typical words.
@@ -107,9 +114,9 @@ We follow the title case rules from the "Chicago Manual of Style":
 
 When in doubt, you can verify proper capitalization on [www.titlecapitalization.com](http://www.titlecapitalization.com/).
 
-### Standardisation 
+### Standardization 
 
-This is a list of words/abbrevations that are used inconsistent at the moment in the MSTG and need standardisation:
+This is a list of words/abbrevations that are used inconsistently at the moment in the MSTG and need standardization:
 
 - man-in-the-middle attack (MITM)
 
