@@ -186,8 +186,15 @@ Markdown blockquotes can be used for comments in the documents by using ">"/
 
 > This is a blockquote
 
+## Code Formatting
 
-## Code and Shell Commands
+### In-Line Code References
+
+- method names: \<code>methodname\</code>
+- function and class names: \`functionname\`
+- dialog text strings: "Dialog text"
+
+### Code Samples and Shell Commands
 
 Use code tags when including sample code and shell commands. In Markdown, code blocks are denoted by triple backticks. GitHub also supports syntax highlighting for a variety of languages. For example, a Java code block should be annotated as follows:
 
