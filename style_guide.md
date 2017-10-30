@@ -135,7 +135,7 @@ that is -> that's
 there is -> there's  
 was not -> wasn't  
 were not -> weren't  
-will not -> wont  
+will not -> won't  
 would not -> wouldn't  
 you are -> you're  
 you have + *verb* -> you've + *verb* 
@@ -224,15 +224,24 @@ We bought apples, oranges, and tomatoes from the store.
 
 | Noun Form  | Adjectival Form |
 | ---------  | --------------- |
-|  back end  |  backend        |
-|  Base64    | Base64-         |
-| black box  |   *same*        |
-|client side | client-side     |
+|  back end  |     backend     |
+|  Base64    |     Base64-     |
+| black box  |     black-bo    |
+|client side |   client-side   |
 |command line|     *same*      |
-| server side| server-side     |
-|snapshot length| NA|
-| use case   |   *same*        |
-| white box  |   *same*        |
+| filesystem |      *same*     |
+| life cycle |     *same*      |
+| server side|   server-side   |
+|snapshot length|     NA       |
+|  use case  |     *same*      |
+|  white box |    white-box    |
+
+| Compound Verbs |
+|     -------    |  
+|     back up    |  
+|   hard-code    |
+
+
 
 ## Comments
 
